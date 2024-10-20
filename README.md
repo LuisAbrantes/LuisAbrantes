@@ -25,8 +25,8 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on personal and collaborative projects.
-- 🌱 I’m learning new programming languages and frameworks.
+- 🔭 I’m currently working on personal projects and improving programming languages and frameworks skills.
+- 🌱 Doing what I love: Programming and helping other people reach their first steps in coding and international experience.
 - 💬 Ask me about technology, programming, and web development.
 - 🎯 Goals: Contribute to open-source projects and positively impact the tech community.
 
@@ -67,7 +67,7 @@
 ## ✨ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Let+no+one+despise+you+for+your+youth,+but+set+the+believers+an+example+in+speech,+in+conduct,+in+love,+in+faith,+in+purity.+~1+Timothy+4:12&theme=algolia"/>
 </p>
 
 ---
