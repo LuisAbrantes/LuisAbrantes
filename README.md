@@ -67,9 +67,8 @@
 ## ✨ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Let+no+one+despise+you+for+your+youth,+but+set+the+believers+an+example+in+speech,+in+conduct,+in+love,+in+faith,+in+purity.+~1+Timothy+4:12&theme=algolia"/>
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Let+no+one+despise+you+for+your+youth,+but+set+the+believers+an+example+in+speech,+in+conduct,+in+love,+in+faith,+in+purity.&author=1+Timothy+4%3A12&theme=algolia"/>
 </p>
-
 ---
 
 ## 📫 How to Reach Me
