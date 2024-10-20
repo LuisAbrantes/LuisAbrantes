@@ -5,7 +5,7 @@
 
 <!-- Animated typing text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer.;Passionate+about+Technology+and+Innovation.">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome%20to%20my%20GitHub%20Profile!;I%27m%20a%20Software%20Developer%2E;Passionate%20about%20Technology%20and%20Innovation%2E"/>
 </p>
 
 <!-- Social media badges -->
