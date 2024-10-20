@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAbrantes&layout=compact)
+# Meu Perfil
+
+## Seguidores
+![GitHub followers](https://img.shields.io/github/followers/LuisAbrantes?label=Follow&style=social)
+
+## Estrelas
+![GitHub stars](https://img.shields.io/github/stars/LuisAbrantes?style=social)
+
+## Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAbrantes&layout=compact&theme=dark)
+
+## Status Geral
+![LuisAbrantes's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAbrantes&show_icons=true&theme=dark)
