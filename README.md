@@ -26,9 +26,9 @@
 ## 🌟 About Me
 
 - 🔭 I’m currently working on personal projects and improving programming languages and frameworks skills.
-- 🌱 Doing what I love: Programming and helping other people reach their first steps in coding and international experience.
+- 🌱 Doing what I love: Programming and helping others reach their first steps in coding and international experience.
 - 💬 Ask me about technology, programming, and web development.
-- 🎯 Goals: Contribute to open-source projects and positively impact the tech community.
+- 🎯 Goals: Join a good University and work on the Github Team one day.
 
 ---
 
