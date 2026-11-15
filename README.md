@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome%20to%20my%20GitHub%20Profile!;Computer%20Science%20Student%20at%20IFSP;Passionate%20about%20AI%20and%20Web%20Development"/>
 </p>
 
+<p align="center">
+  <a href="https://luisabrantes.dev"><strong>luisabrantes.dev</strong></a> · portfolio, projects and achievements<br/>
+  <a href="https://papers.luisabrantes.dev">papers.luisabrantes.dev</a> · technical notes on agent harnesses
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -93,6 +98,7 @@
 
 <div align="center">
   
+  [![Portfolio](https://img.shields.io/badge/luisabrantes.dev-07080B?style=for-the-badge&logo=vercel&logoColor=white)](https://luisabrantes.dev)
   [![Instagram](https://img.shields.io/badge/@luis.hsa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luis.hsa)
   [![Email](https://img.shields.io/badge/luis.hsa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.hsa@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishenriqueabrantes)
